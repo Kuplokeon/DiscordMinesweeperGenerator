@@ -1,0 +1,8 @@
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\bin\Debug\DiscordMinesweeperMaker2.exe.config
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\bin\Debug\DiscordMinesweeperMaker2.exe
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\bin\Debug\DiscordMinesweeperMaker2.pdb
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\obj\Debug\DiscordMinesweeperMaker2.csproj.AssemblyReference.cache
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\obj\Debug\DiscordMinesweeperMaker2.csproj.SuggestedBindingRedirects.cache
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\obj\Debug\DiscordMinesweeperMaker2.csproj.CoreCompileInputs.cache
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\obj\Debug\DiscordMinesweeperMaker2.exe
+C:\Users\Reece Gaddie\source\repos\DiscordMinesweeperMaker2\DiscordMinesweeperMaker2\obj\Debug\DiscordMinesweeperMaker2.pdb
